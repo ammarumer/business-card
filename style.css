@@ -1,0 +1,22 @@
+
+body {
+    font-family: Georgia, Helvetica, sans-serif;
+    margin:40px;
+}
+
+.avatar {
+    width: 200px;
+    border: 1px solid darkblue;
+}
+
+.card {
+    width: 600px;
+    margin:0 auto;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background: #c5ffe5;
+    text-align: center;
+    color: #1f51d5;
+    border-bottom: 4px solid darkblue;
+}
